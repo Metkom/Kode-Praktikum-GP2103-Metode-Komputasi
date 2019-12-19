@@ -1,5 +1,4 @@
 /* Modul Praktikum GP2103 Metode Komputasi, 
-Program Studi Teknik Geofisika, Universitas Pertamina
 Oleh: Hardianto Rizky Prabusetyo dan Mohammad Heriyanto
 
 Website: https://osf.io/5tfvq/
