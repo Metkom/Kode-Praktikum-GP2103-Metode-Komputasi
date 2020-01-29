@@ -17,6 +17,20 @@ Bahasa yang digunakan berupa C++ dan Octave dengan Compiler berupa Dev-C++ dan G
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
     
+**For Module**
+    
+    @misc{Prabusetyo_Heriyanto_2018,
+    title={Modul Praktikum GP2103 Metode Komputasi versi Octave dan C++},
+    url={osf.io/5tfvq},
+    DOI={10.17605/OSF.IO/5TFVQ},
+    publisher={OSF},
+    author={Prabusetyo, Hardianto R and Heriyanto, Mohammad},
+    year={2018},
+    month={Dec}
+    }
+
+**For Software**
+
     @software{h_r_prabusetyo_2017_1044949,
     author       = {H.R. Prabusetyo and
                   M. Heriyanto},
