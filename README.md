@@ -14,7 +14,7 @@
 Berikut ini kode-kode yang ada pada modul praktikum GP2103 Metode Komputasi, Program Studi Teknik Geofisika, Universitas Pertamina. Bahasa yang digunakan berupa C++ dan Octave dengan Compiler berupa Dev-C++ dan GNU Octave. Modul praktikum dalam bentuk PDF bisa didownload di [osf.io](https://osf.io/5tfvq/) dan kode versi release berada di [zenodo.org](https://zenodo.org/record/1044949#.XmMGnuExXeQ) dan [github.com](https://github.com/Metkom/Kode-Praktikum-GP2103-Metode-Komputasi). Berikut ini cover modul praktikum GP2103 Metode Komputasi:
 
 <p align="center">
-<img src="https://github.com/Metkom/Kode-Praktikum-GP2103-Metode-Komputasi/blob/master/images/metode_komputasi.jpg" width="80%">
+<img src="https://github.com/Metkom/Kode-Praktikum-GP2103-Metode-Komputasi/blob/master/images/metode_komputasi.jpg" width="50%">
 </p>
 
 ## Citation
